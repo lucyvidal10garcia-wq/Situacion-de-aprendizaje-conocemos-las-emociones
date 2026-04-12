@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260412141439IAJNMV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260412141439WN07CA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Sda Conocemos las emociones- cuaderno alumnado.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lucía Vidal García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En este archivo se encuentran todas las actividades y sesiones que se van a desarrollar a lo largo de esta Situación de Aprendizaje. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775995975429</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnvldvqj-qf4y3uun5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia didáctica.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqj-qf4y3uun5</odePageId>
+      <odeBlockId>block-1775995625442-g4toiq58p</odeBlockId>
+      <blockName>Presentación de las 10 sesiones que vamos a trabajar.</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqj-qf4y3uun5</odePageId>
+          <odeBlockId>block-1775995625442-g4toiq58p</odeBlockId>
+          <odeIdeviceId>idevice-1775995625435-8wvf6o4sp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, encontraréis las distintas actividades y tareas que vamos a realizar en el aula.  </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775995625435-8wvf6o4sp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, encontraréis las distintas actividades y tareas que vamos a realizar en el aula.  </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqk-wswb5x6oq</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 1.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqk-wswb5x6oq</odePageId>
+      <odeBlockId>block-1775907246120-5vo1rxzmx</odeBlockId>
+      <blockName>Tarea 1. Escucho un cuento emocionante.</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqk-wswb5x6oq</odePageId>
+          <odeBlockId>block-1775907246120-5vo1rxzmx</odeBlockId>
+          <odeIdeviceId>idevice-1775907246118-md9nworjv</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1775907246118-md9nworjv" data-evaluationb="false" data-evaluationid="b24afcf1-e236-4b5a-a407-6b88fc4db464"></div>
+            <div id="frmMainContainer-idevice-1775907246118-md9nworjv" class="form-IDevice" data-id="idevice-1775907246118-md9nworjv">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><h3 style="text-align: center;"><span style="font-weight: bolder; text-align: center;">Antes de comenzar esta actividad, vamos a repasar que es lo que sabemos de los cuentos. </span></h3>
+<table border="1" class="exe-table" style="width: 100%; border-color: #2dc26b; height: 277px;">
+<tbody>
+<tr style="height: 41px;">
+<td style="width: 99.8322%; background-color: #bfedd2; border-color: #2dc26b; border-style: solid; text-align: center; height: 41px;"><strong>Los cuentos tradicionales y los cuentos actuales</strong></td>
+</tr>
+<tr style="height: 236px;">
+<td style="width: 99.8322%; height: 236px;">
+<p style="text-align: justify;">Los <strong>cuentos</strong> son narraciones breves que relatan historias fantásticas e imaginarias.</p>
+<p style="text-align: justify;">Los <strong>cuentos clásicos o tradicionales</strong> son narraciones antiguas que han llegado hasta nuestros días y que se han transmitido oralmente de generación en generación.</p>
+<p style="text-align: justify;">Los <strong>cuentos actuales</strong> narran historias divertidas, de aventuras, de misterio o de terror, y en muchos casos, ofrecen una nueva versión de los cuentos clásicos y de sus personajes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>¿Alguna vez has sentido algo muy fuerte pero no sabías explicarlo?” “¿Crees que todas las emociones son buenas o malas?”</p>
+<h6 style="text-align: center;"><strong>Actividad 1. </strong>Escucha el audio y responde a las preguntas sobre él.</h6>
+<p><video width="300" height="150" controls="controls">
+<source src="{{context_path}}/content/resources/Nueva grabación 2 (1).m4a" /></video></p>
+<p><br /></p>
+<p></p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1775907246118-md9nworjv">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1775907246118-md9nworjv" style="display:none;">
+                      <button  id="frmStartGame-idevice-1775907246118-md9nworjv" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1775907246118-md9nworjv" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1775907246118-md9nworjv" > </div>
+                        <div id="frmCover-idevice-1775907246118-md9nworjv" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1775907246118-md9nworjv" class="form-results-container inline">
+                        <div id="form-score-idevice-1775907246118-md9nworjv" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1775907246118-md9nworjv" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1775907246118-md9nworjv" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1775907246118-md9nworjv" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1775907246118-md9nworjv" type="button" value="Reiniciar"
+                            data-id="idevice-1775907246118-md9nworjv" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1775907246118-md9nworjv" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775907246118-md9nworjv","evaluation":false,"evaluationID":"b24afcf1-e236-4b5a-a407-6b88fc4db464","repeatActivity":true,"isScorm":2,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1775907246118-md9nworjv","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<h3 style=\"text-align: center;\"><span style=\"font-weight: bolder; text-align: center;\">Antes de comenzar esta actividad, vamos a repasar que es lo que sabemos de los cuentos. </span></h3>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%; border-color: #2dc26b; height: 277px;\">\n<tbody>\n<tr style=\"height: 41px;\">\n<td style=\"width: 99.8322%; background-color: #bfedd2; border-color: #2dc26b; border-style: solid; text-align: center; height: 41px;\"><strong>Los cuentos tradicionales y los cuentos actuales</strong></td>\n</tr>\n<tr style=\"height: 236px;\">\n<td style=\"width: 99.8322%; height: 236px;\">\n<p style=\"text-align: justify;\">Los <strong>cuentos</strong> son narraciones breves que relatan historias fantásticas e imaginarias.</p>\n<p style=\"text-align: justify;\">Los <strong>cuentos clásicos o tradicionales</strong> son narraciones antiguas que han llegado hasta nuestros días y que se han transmitido oralmente de generación en generación.</p>\n<p style=\"text-align: justify;\">Los <strong>cuentos actuales</strong> narran historias divertidas, de aventuras, de misterio o de terror, y en muchos casos, ofrecen una nueva versión de los cuentos clásicos y de sus personajes.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>¿Alguna vez has sentido algo muy fuerte pero no sabías explicarlo?” “¿Crees que todas las emociones son buenas o malas?”</p>\n<h6 style=\"text-align: center;\"><strong>Actividad 1. </strong>Escucha el audio y responde a las preguntas sobre él.</h6>\n<p><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/Nueva grabación 2 (1).m4a\" /></video></p>\n<p><br /></p>\n<p></p>","questionsData":[{"id":"1775907765954-WC0V2","activityType":"fill","baseText":"<p>¿Cómo se llama el robot? ¿Qué oficio desempeña? </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1775907788442-5P8XC","activityType":"fill","baseText":"<p>¿Por qué los muchachos se quedan callados después de escuchar al robot? ¿Qué crees que han aprendido?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1775907916012-G53KD","activityType":"selection","baseText":"<p>¿Por qué llora el robot? </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Porque no podía hacer daño a los humanos."],[false,"Porque le apenaba que alguien que siente emociones fuera cruel."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775908754850-JNF8F","activityType":"selection","baseText":"<p>Según la teoría que has leído anteriormente sobre los tipos de cuentos ¿Qué tipo de cuento es?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Tradicional"],[false,"Actual"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":false,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqr-2sqx8uwox</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 2.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqr-2sqx8uwox</odePageId>
+      <odeBlockId>block-1775909235199-hy4hqifeb</odeBlockId>
+      <blockName>Tipos de lenguaje. DUA</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqr-2sqx8uwox</odePageId>
+          <odeBlockId>block-1775909235199-hy4hqifeb</odeBlockId>
+          <odeIdeviceId>idevice-1775909235186-9tbnwldp3</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">Diccionario Lenguaje Inclusivo</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-accordion">
+<h2>Lenguaje discriminatorio</h2>
+<figure class="exe-figure exe-image license-custom float-left" style="width: 137px;"><img src="{{context_path}}/content/resources/discriminacion.png" alt="" width="137" height="137">
+<figcaption class="figcaption"><a href="flaticon.com" class="author" target="_blank" rel="noopener">flaticon.com</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Definición:</strong></p>
+<p>Consiste en utilizar un lenguaje oral o escrito en el que se utilizan palabras racistas, clasistas, sexistas y otras.</p>
+<p><br></p>
+<p><br></p>
+<h2>Lenguaje igualitario</h2>
+<figure class="exe-figure exe-image license-custom float-left" style="width: 129px;"><img src="{{context_path}}/content/resources/igualdad-de-genero.png" alt="" width="129" height="129">
+<figcaption class="figcaption"><a href="flaticon.com" class="author" target="_blank" rel="noopener">flaticon.com</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Definición:</strong></p>
+<p>Consiste en utilizar el lenguaje oral o escrito evitando prejuicios y estereotipos sexistas así como la exclusión por género, sexo u orientación sexual.</p>
+<p><br></p>
+<p><br></p>
+<h2>Lenguaje inclusivo</h2>
+<figure class="exe-figure exe-image license-custom float-left" style="width: 128px;"><img src="{{context_path}}/content/resources/amor.png" alt="" width="128" height="128">
+<figcaption class="figcaption"><a href="Flaticon.com" class="author" target="_blank" rel="noopener">Flaticon.com</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Definición:</strong></p>
+<p>El lenguaje inclusivo es un conjunto de estrategias lingüísticas que buscan evitar la discriminación de género y la invisibilización de grupos sociales. Su objetivo es asegurar una comunicación igualitaria, respetuosa y no sexista, visibilizando a mujeres, personas no binarias y minorías, más allá del uso del masculino genérico tradicional</p>
+<p><br></p>
+<h2>Lenguaje emocional</h2>
+<figure class="exe-figure exe-image license-custom float-left" style="width: 128px;"><img src="{{context_path}}/content/resources/empatia.png" alt="" width="128" height="128">
+<figcaption class="figcaption"><a href="flaticon.com" class="author" target="_blank" rel="noopener">flaticon.com</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Definición: </strong><br></p>
+<p>El lenguaje emocional es la forma en que comunicamos y expresamos lo que sentimos a través de palabras, gestos, tono de voz y lenguaje corporal, siendo fundamental para la inteligencia emocional y la conexión humana</p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnvldvqr-2sqx8uwox</odePageId>
+      <odeBlockId>block-1775913527813-za9v0kl2y</odeBlockId>
+      <blockName>Realiza una infografía</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqr-2sqx8uwox</odePageId>
+          <odeBlockId>block-1775913527813-za9v0kl2y</odeBlockId>
+          <odeIdeviceId>idevice-1775913527811-x2mx9qmoc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En parejas realizad una infografía poniendo ejemplos de los distintos lenguajes que aparecen en nuestro diccionario de lenguaje inclusivo.</p>
+<p>Utilizad la herramienta Canva que aparece en este enlace. </p>
+<p><a href="https://www.canva.com/es_es/" title="">https://www.canva.com/es_es/</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775913527811-x2mx9qmoc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En parejas realizad una infografía poniendo ejemplos de los distintos lenguajes que aparecen en nuestro diccionario de lenguaje inclusivo.</p>\n<p>Utilizad la herramienta Canva que aparece en este enlace. </p>\n<p><a href=\"https://www.canva.com/es_es/\" title=\"\">https://www.canva.com/es_es/</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqt-mg93xpdl9</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqt-mg93xpdl9</odePageId>
+      <odeBlockId>block-1775937162758-vx9rhlio3</odeBlockId>
+      <blockName>Lectura del texto narrativo: El secreto de Hugo, en José Luis Ferris, El sabor de las palabras. Antología poética, Anaya.</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqt-mg93xpdl9</odePageId>
+          <odeBlockId>block-1775937162758-vx9rhlio3</odeBlockId>
+          <odeIdeviceId>idevice-1775937162756-k0ymjqmwy</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1775937162756-k0ymjqmwy" data-evaluationb="false" data-evaluationid="fe64fa93-3673-4f9f-96cf-eea92bbbb3ec"></div>
+            <div id="frmMainContainer-idevice-1775937162756-k0ymjqmwy" class="form-IDevice" data-id="idevice-1775937162756-k0ymjqmwy">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>A continuación se os presenta el texto "El secreto de Hugo" escrito por José Luis Ferris. </p>
+<p>Debéis leerlo con calma en voz alta toda la clase, de forma que todo el mundo lea por lo menos un párrafo. Ya que deberéis responder a una serie de preguntas posteriormente sobre el texto. </p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1775937162756-k0ymjqmwy">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1775937162756-k0ymjqmwy" style="display:none;">
+                      <button  id="frmStartGame-idevice-1775937162756-k0ymjqmwy" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1775937162756-k0ymjqmwy" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1775937162756-k0ymjqmwy" > </div>
+                        <div id="frmCover-idevice-1775937162756-k0ymjqmwy" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1775937162756-k0ymjqmwy" class="form-results-container inline">
+                        <div id="form-score-idevice-1775937162756-k0ymjqmwy" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1775937162756-k0ymjqmwy" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1775937162756-k0ymjqmwy" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1775937162756-k0ymjqmwy" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1775937162756-k0ymjqmwy" type="button" value="Reiniciar"
+                            data-id="idevice-1775937162756-k0ymjqmwy" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1775937162756-k0ymjqmwy" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1775937162756-k0ymjqmwy" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1775937162756-k0ymjqmwy" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                <div class="form-instructions"><p style="text-align: center;"><strong>El secreto de Hugo</strong></p>
+<p>Me llamo Hugo, he cumplido nueve años y tengo un secreto. Voy a cuarto de Primaria, juego al fútbol en el equipo de alevines, entreno los martes y los jueves, pero lo mejor, sin duda, es mi secreto. Mi secreto me lo conocen dos personas: la señorita Susana y yo.</p>
+<p>Susana llegó al colegio el año pasado. No se parecía en casi nada a las otras maestras: ni se arreglaba igual, ni se vestía igual, ni nos hablaba igual. Tenía el pelo rojo y se peinaba con la melena en un desorden. Su vestía también con mucho desenfado. Sus vaqueros, sus blusas, sus zapatos, sus faldas de rayas y de colores chillones llenaban el colegio de alegría. Pero lo mejor de ella era su sonrisa y sus ojos vivos y azules. Susana era dulce como un abrazo y tan sabia como un libro. Además, nos trataba como si fuéramos realmente importantes. Utilizaba palabras claras y cristalinas, como su voz.</p>
+<p>—¿Alguien puede decirme qué es una metáfora? ¿Cuántos versos tiene un soneto? ¿Para qué sirve la poesía? ¿Lo habéis pensado alguna vez?</p>
+<p>Nadie respondía, ni siquiera Martín Villanueva, que sacaba diez en todo. Entonces, la señorita Susana, luciendo la sonrisa más ancha y bella que he visto jamás, se levantó de la mesa y se dirigió a la clase.</p>
+<p>—La poesía es la expresión humana más antigua del mundo, la poesía nació de los sonidos de la naturaleza, de la lluvia al caer, del viento al azotar los mares y los montes, del río al correr entre peñas y valles, del aire soplando entre las hojas, del galope de una yegua y el trinar de un pájaro.</p>
+<p> <br />Gracias a Susana comprendí muy pronto que ella, la poesía, sirve para expresar con palabras la sorpresa, el miedo, la tristeza, la alegría, la melancolía, la soledad, incluso aquello que más me divierte o las cosas que más me enfadan. Y supe también que los poetas, los de ahora y los de siempre, dejan un poema escrito para cada uno de nosotros y para cada momento bueno o malo de nuestra vida.</p>
+<p>—No lo olvides nunca, Hugo —me dijo mi maestra al salir de clase, poco antes de acabar el curso—, los poetas son magos que juntan las palabras para que las emociones, invisibles, se puedan tocar con los dedos del alma.</p>
+<p>Un día, Susana se despidió de nosotros. El curso había terminado y ella se marchaba a otro colegio. Pensé que no volveríamos a verla y eso me llenó de tristeza. Mientras yo recogía los libros y los guardaba en la mochila, se acercó a mí, me tomó de la mano y me pidió que la acompañara a la sala de profesores. Susana olía intensamente a violetas.</p>
+<p>—Quiero hacerte un regalo que has de guardar como se guarda un secreto —lo dijo cogiéndome las manos.</p>
+<p>No sé lo que dije, ni siquiera recuerdo si respondí a sus amables palabras, pero ella siguió hablándome a los ojos mientras sacaba de su bolso de magia un libro dorado y azul.</p>
+<p>—Son mis poemas favoritos. En este libro encontrarás versos para pensar, versos para divertirte, versos para reír y versos para saber lo que le ocurre a tu corazón.</p>
+<p>Nos despedimos con un abrazo tan dulce como ella.</p>
+<p>No sé si volveremos a vernos. Pero ahora me siento muy feliz. He cumplido nueve años, he pasado a cuarto y tengo un libro que me ha regalado Susana. Lo he guardado. Y cada noche siento que esos poemas que guardo en el cajón de mi mesa son un gran secreto, el mejor de los secretos.</p>
+<p> <br /><em><strong>El sabor de las palabras. Antología poética. Editorial Anaya.</strong></em></p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775937162756-k0ymjqmwy","evaluation":false,"evaluationID":"fe64fa93-3673-4f9f-96cf-eea92bbbb3ec","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1775937162756-k0ymjqmwy","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>A continuación se os presenta el texto \"El secreto de Hugo\" escrito por José Luis Ferris. </p>\n<p>Debéis leerlo con calma en voz alta toda la clase, de forma que todo el mundo lea por lo menos un párrafo. Ya que deberéis responder a una serie de preguntas posteriormente sobre el texto. </p>","questionsData":[{"id":"1775937496312-QYTH1","activityType":"fill","baseText":"<p style=\"text-align: center;\"><strong>Antes de la lectura... </strong></p>\n<p style=\"text-align: center;\">¿De qué creéis que tratará este texto narrativo?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"<p style=\"text-align: center;\"><strong>El secreto de Hugo</strong></p>\n<p>Me llamo Hugo, he cumplido nueve años y tengo un secreto. Voy a cuarto de Primaria, juego al fútbol en el equipo de alevines, entreno los martes y los jueves, pero lo mejor, sin duda, es mi secreto. Mi secreto me lo conocen dos personas: la señorita Susana y yo.</p>\n<p>Susana llegó al colegio el año pasado. No se parecía en casi nada a las otras maestras: ni se arreglaba igual, ni se vestía igual, ni nos hablaba igual. Tenía el pelo rojo y se peinaba con la melena en un desorden. Su vestía también con mucho desenfado. Sus vaqueros, sus blusas, sus zapatos, sus faldas de rayas y de colores chillones llenaban el colegio de alegría. Pero lo mejor de ella era su sonrisa y sus ojos vivos y azules. Susana era dulce como un abrazo y tan sabia como un libro. Además, nos trataba como si fuéramos realmente importantes. Utilizaba palabras claras y cristalinas, como su voz.</p>\n<p>—¿Alguien puede decirme qué es una metáfora? ¿Cuántos versos tiene un soneto? ¿Para qué sirve la poesía? ¿Lo habéis pensado alguna vez?</p>\n<p>Nadie respondía, ni siquiera Martín Villanueva, que sacaba diez en todo. Entonces, la señorita Susana, luciendo la sonrisa más ancha y bella que he visto jamás, se levantó de la mesa y se dirigió a la clase.</p>\n<p>—La poesía es la expresión humana más antigua del mundo, la poesía nació de los sonidos de la naturaleza, de la lluvia al caer, del viento al azotar los mares y los montes, del río al correr entre peñas y valles, del aire soplando entre las hojas, del galope de una yegua y el trinar de un pájaro.</p>\n<p> <br />Gracias a Susana comprendí muy pronto que ella, la poesía, sirve para expresar con palabras la sorpresa, el miedo, la tristeza, la alegría, la melancolía, la soledad, incluso aquello que más me divierte o las cosas que más me enfadan. Y supe también que los poetas, los de ahora y los de siempre, dejan un poema escrito para cada uno de nosotros y para cada momento bueno o malo de nuestra vida.</p>\n<p>—No lo olvides nunca, Hugo —me dijo mi maestra al salir de clase, poco antes de acabar el curso—, los poetas son magos que juntan las palabras para que las emociones, invisibles, se puedan tocar con los dedos del alma.</p>\n<p>Un día, Susana se despidió de nosotros. El curso había terminado y ella se marchaba a otro colegio. Pensé que no volveríamos a verla y eso me llenó de tristeza. Mientras yo recogía los libros y los guardaba en la mochila, se acercó a mí, me tomó de la mano y me pidió que la acompañara a la sala de profesores. Susana olía intensamente a violetas.</p>\n<p>—Quiero hacerte un regalo que has de guardar como se guarda un secreto —lo dijo cogiéndome las manos.</p>\n<p>No sé lo que dije, ni siquiera recuerdo si respondí a sus amables palabras, pero ella siguió hablándome a los ojos mientras sacaba de su bolso de magia un libro dorado y azul.</p>\n<p>—Son mis poemas favoritos. En este libro encontrarás versos para pensar, versos para divertirte, versos para reír y versos para saber lo que le ocurre a tu corazón.</p>\n<p>Nos despedimos con un abrazo tan dulce como ella.</p>\n<p>No sé si volveremos a vernos. Pero ahora me siento muy feliz. He cumplido nueve años, he pasado a cuarto y tengo un libro que me ha regalado Susana. Lo he guardado. Y cada noche siento que esos poemas que guardo en el cajón de mi mesa son un gran secreto, el mejor de los secretos.</p>\n<p> <br /><em><strong>El sabor de las palabras. Antología poética. Editorial Anaya.</strong></em></p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnvldvqt-mg93xpdl9</odePageId>
+      <odeBlockId>block-1775938079211-36amh3uqp</odeBlockId>
+      <blockName>Cuestionario de comprensión lectora.</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqt-mg93xpdl9</odePageId>
+          <odeBlockId>block-1775938079211-36amh3uqp</odeBlockId>
+          <odeIdeviceId>idevice-1775938079208-4ughmwx9y</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1775938079208-4ughmwx9y" data-evaluationb="false" data-evaluationid="fe64fa93-3673-4f9f-96cf-eea92bbbb3ec"></div>
+            <div id="frmMainContainer-idevice-1775938079208-4ughmwx9y" class="form-IDevice" data-id="idevice-1775938079208-4ughmwx9y">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p style="text-align: center;"><strong>Después de la lectura.</strong></p>
+<p style="text-align: center;">Ahora que ya has leído el texto ¿Puedes responder a estas preguntas?</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1775938079208-4ughmwx9y">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1775938079208-4ughmwx9y" style="display:none;">
+                      <button  id="frmStartGame-idevice-1775938079208-4ughmwx9y" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1775938079208-4ughmwx9y" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1775938079208-4ughmwx9y" > </div>
+                        <div id="frmCover-idevice-1775938079208-4ughmwx9y" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1775938079208-4ughmwx9y" class="form-results-container inline">
+                        <div id="form-score-idevice-1775938079208-4ughmwx9y" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1775938079208-4ughmwx9y" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1775938079208-4ughmwx9y" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1775938079208-4ughmwx9y" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1775938079208-4ughmwx9y" type="button" value="Reiniciar"
+                            data-id="idevice-1775938079208-4ughmwx9y" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1775938079208-4ughmwx9y" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1775938079208-4ughmwx9y" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1775938079208-4ughmwx9y" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775938079208-4ughmwx9y","evaluation":false,"evaluationID":"fe64fa93-3673-4f9f-96cf-eea92bbbb3ec","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1775938079208-4ughmwx9y","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p style=\"text-align: center;\"><strong>Después de la lectura.</strong></p>\n<p style=\"text-align: center;\">Ahora que ya has leído el texto ¿Puedes responder a estas preguntas?</p>","questionsData":[{"id":"1775938265299-KFKU0","activityType":"true-false","baseText":"<p>Hugo entrena fútbol todos los días de la semana. </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775938292254-HLZDW","activityType":"true-false","baseText":"<p>La señorita Susana tenía el pelo rojo y un estilo diferente al de otras maestras. </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775938321781-UTY3F","activityType":"true-false","baseText":"<p>Martín Villanueva nunca sacaba buenas notas en clase. </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775938340950-85H1U","activityType":"true-false","baseText":"<p>Susana le regaló a Hugo un libro con sus poemas favoritos. </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775938363351-34WE4","activityType":"true-false","baseText":"<p>Hugo se sintió triste y enfadado cuando recibió el regalo de su maestra.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqv-mp4bub7n2</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqv-mp4bub7n2</odePageId>
+      <odeBlockId>block-1775938621488-1een8mhj5</odeBlockId>
+      <blockName>Trabajamos con el texto: busca las emociones que aparecen en el texto.</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqv-mp4bub7n2</odePageId>
+          <odeBlockId>block-1775938621488-1een8mhj5</odeBlockId>
+          <odeIdeviceId>idevice-1775938621487-f91ylov2x</odeIdeviceId>
+          <odeIdeviceTypeName>word-search</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="sopa-IDevice">
+        <div class="game-evaluation-ids js-hidden" data-id="idevice-1775938621487-f91ylov2x" data-evaluationb="false" data-evaluationid="fe64fa93-3673-4f9f-96cf-eea92bbbb3ec"></div>
+                <div class="sopa-version js-hidden">2</div>
+                 <div class="sopa-instructions"><p>Encuentra las emociones que aparecen en el texto de Hugo dentro de esta sopa de letras. </p></div>
+                <div class="sopa-feedback-game"></div>              
+                <div class="sopa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D7%FC%F1%E7%F7%FC%E6%E0%F3%B2%FE%F3%E1%B2%F7%FF%FD%F1%FB%FD%FC%F7%E1%B2%E3%E7%F7%B2%F3%E2%F3%E0%F7%F1%F7%FC%B2%F7%FC%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%F6%F7%B2%DA%E7%F5%FD%B2%F6%F7%FC%E6%E0%FD%B2%F6%F7%B2%F7%E1%E6%F3%B2%E1%FD%E2%F3%B2%F6%F7%B2%FE%F7%E6%E0%F3%E1%BC2%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%FE%F7%F5%E0%7F%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%F1%E7%F3%FC%F6%FD%B2%DA%E7%F5%FD%B2%FA%F3%F0%FE%F3%B2%F6%F7%B2%E1%E7%B2%E1%F7%F1%E0%F7%E6%FD%BE%B2%F6%F7%FE%B2%F4h%E6%F0%FD%FE%B2%EB%B2%F6%F7%B2%FE%F3%B2%F4%FD%E0%FF%F3%B2%F6%F7%B2%E1%F7%E0%B2%F6%F7%B2%C1%E7%E1%F3%FC%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C6%E0%FB%E1%E6%F7%E8%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%F1%E7%F3%FC%F6%FD%B2%C1%E7%E1%F3%FC%F3%B2%E1%F7%B2%F6%F7%E1%E2%FB%F6%F7%B2%EB%B2%7B%FE%B2%E2%FB%F7%FC%E1%F3%B2%E3%E7%F7%B2%FC%FD%B2%E4%FD%FE%E4%F7%E0s%B2%F3%B2%E4%F7%E0%FE%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%F3%E0%FBc%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%F7%FC%B2%FE%F3%B2%E0%F7%FE%F3%F1%FBa%FC%B2%F7%FC%E6%E0%F7%B2%DA%E7%F5%FD%B2%EB%B2%E1%E7%B2%FF%F3%F7%E1%E6%E0%F3%BE%B2%F7%E1%E2%F7%F1%FB%F3%FE%FF%F7%FC%E6%F7%B2%F7%FC%B2%F7%FE%B2%F3%F0%E0%F3%E8%FD%B2%EB%B2%F7%FE%B2%E0%F7%F5%F3%FE%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%F6%FF%FB%E0%F3%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%FA%F3%F1%FB%F3%B2%C1%E7%E1%F3%FC%F3%BE%B2%E2%FD%E0%B2%E1%E7%B2%F4%FD%E0%FF%F3%B2%F6%F7%B2%E1%F7%E0%BE%B2%F7%FC%E1%F7c%F3%E0%B2%EB%B2%F7%EA%E2%E0%F7%E1%F3%E0%E1%F7%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%F7%FE%F3%FC%F1%FD%FE%7F%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%F3%FE%B2%E0%F7%F1%FD%E0%F6%F3%E0%B2%F3%B2%C1%E7%E1%F3%FC%F3%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%E3%E7%F7%B2%E1%F7%B2%FF%F3%E0%F1%FA%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DB%FE%E7%E1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%E2%FD%E0%B2%F7%FE%B2%FE%FB%F0%E0%FD%B2%F6%F7%B2%E2%FD%F7%FF%F3%E1%B2%EB%B2%F7%FE%B2%u208E%E1%F7%F1%E0%F7%E6%FD%u208F%B2%E3%E7%F7%B2%F3%FA%FD%E0%F3%B2%E6%FB%F7%FC%F7%B2%DA%E7%F5%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%FD%E0%E2%E0%F7%E1%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%F3%FE%B2%F6%F7%E1%F1%E7%F0%E0%FB%E0%B2%FE%FD%B2%E3%E7%F7%B2%E1%FB%F5%FC%FB%F4%FB%F1%F3%B2%FE%F3%B2%E2%FD%F7%E1%7F%F3%B2%EB%B2%F3%FE%B2%E0%F7%F1%FB%F0%FB%E0%B2%F7%FE%B2%E0%F7%F5%F3%FE%FD%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F6%FB%F3%F5%FD%FC%F3%FE%E1%B0%A8%E6%E0%E7%F7%BE%B0%E0%F7%E4%F7%E0%E1%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C0%F7%E1%FD%FE%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F4%F7%A4%A6%F4%F3%AB%A1%BF%A1%A4%A5%A1%BF%A6%F4%AB%F4%BF%AB%A4%F1%F4%BF%F7%F7%F3%AB%A0%F0%F0%F0%F0%A1%F7%F1%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A7%AB%A1%AA%A4%A0%A3%A6%AA%A5%BF%F4%AB%A3%EB%FE%FD%E4%A0%EA%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C5%FD%E0%F6%E1%D4%FB%FC%F6%B0%A8%B0%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%EB%F3%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D3%F1%F3%F0a%B2%F7%FE%B2%E6%FB%F7%FF%E2%FD%B2%F6%F7%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%DF%F3%FC%EB%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%F7%FC%E6%F3%B2%F1%FD%FC%B2%FF%F7%FC%FD%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D0%E7%E1%F1%F3%E0%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%EF%EF</div>
+                
+                
+                
+                <div class="sopa-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+                </div> ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnvldvqv-mp4bub7n2</odePageId>
+      <odeBlockId>block-1775939131347-1sboudd97</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqv-mp4bub7n2</odePageId>
+          <odeBlockId>block-1775939131347-1sboudd97</odeBlockId>
+          <odeIdeviceId>idevice-1775939131344-uahm2vdnz</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><table border="1" height="133" style="width: 100%; height: 133px; background-color: #BFEDD2; border-color: #bfedd2; border-style: solid;">
+<tbody>
+<tr>
+<td style="width: 99.8276%;">
+<p style="text-align: justify;">En nuestro día a día usamos muchas expresiones que no significan exactamente lo que dicen sus palabras, sino que tienen un sentido especial. A estas expresiones las llamamos frases hechas. Por ejemplo, cuando decimos “estar en las nubes”, no significa que alguien esté volando, sino que está distraído.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;">En este ejercicio vas a leer varias frases hechas y tendrás que relacionarlas con su significado correcto. ¡Piensa bien y diviértete descubriendo lo que realmente quieren decir!</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<table border=\"1\" height=\"133\" style=\"width: 100%; height: 133px; background-color: #BFEDD2; border-color: #bfedd2; border-style: solid;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8276%;\">\n<p style=\"text-align: justify;\">En nuestro día a día usamos muchas expresiones que no significan exactamente lo que dicen sus palabras, sino que tienen un sentido especial. A estas expresiones las llamamos frases hechas. Por ejemplo, cuando decimos “estar en las nubes”, no significa que alguien esté volando, sino que está distraído.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\">En este ejercicio vas a leer varias frases hechas y tendrás que relacionarlas con su significado correcto. ¡Piensa bien y diviértete descubriendo lo que realmente quieren decir!</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Estar%20como%20unas%20casta%C3%B1uelas","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Estar%20contento"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Estar%20hecho%20una%20fiera","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Estar%20enfadado"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Estar%20hecho%20polvo","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Estar%20cansado"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Estar%20hecho%20un%20flan","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Estar%20nervioso"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Tener%20el%20coraz%C3%B3n%20en%20un%20pu%C3%B1o","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Estar%20asustado"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Ponerse%20como%20un%20tomate","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Estar%20avergonzado"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"fe64fa93-3673-4f9f-96cf-eea92bbbb3ec","id":"idevice-1775939131344-uahm2vdnz","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1775939131344-uahm2vdnz" data-evaluationb="false" data-evaluationid="fe64fa93-3673-4f9f-96cf-eea92bbbb3ec"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqw-xgh5fl92w</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqw-xgh5fl92w</odePageId>
+      <odeBlockId>block-1775942877799-gpl5vt45t</odeBlockId>
+      <blockName>Aclaración conceptual: antónimos y sinónimos. DUA</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqw-xgh5fl92w</odePageId>
+          <odeBlockId>block-1775942877799-gpl5vt45t</odeBlockId>
+          <odeIdeviceId>idevice-1775942877797-qrcstfsdm</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">Teoría sobre los sinónimos y los antónimos.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-tabs">
+<h2>Los sinónimos</h2>
+<p>Los sinónimos son aquellas palabras que tienen un significado similar, es decir, que quieren trasmitir lo mismo.&nbsp;</p>
+<p>Por ejemplo: Estar feliz / estar contento.</p>
+<h2>Los antónimos</h2>
+<p>Los antónimos son palabras que significan lo contrario.&nbsp;</p>
+<p>Por ejemplo: Feliz / Triste&nbsp;</p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnvldvqw-xgh5fl92w</odePageId>
+      <odeBlockId>block-1775943536157-3l1ksjqnm</odeBlockId>
+      <blockName>Elaboración cooperativa de nuestro glosario emocional.</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqw-xgh5fl92w</odePageId>
+          <odeBlockId>block-1775943536157-3l1ksjqnm</odeBlockId>
+          <odeIdeviceId>idevice-1775943536155-aznobcc1j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Una vez, hayáis leído la teoría sobre los sinónimos y los antónimos. Podréis realizar en grupos cooperativos, mediante la técnica 1, 2, 4 la búsqueda de sinónimos y antónimos relacionados con las palabras de la sopa de letras de la sesión anterior. Para esta actividad podéis y debéis utilizar el diccionario.</p>
+<p style="text-align: justify;">Posteriormente uniréis vuestras ideas en un pequeño cuaderno que se convertirá en nuestro "glosario emocional" y que os permitirá encontrar la palabra adecuada para expresar vuestros sentimientos y emociones. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775943536155-aznobcc1j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Una vez, hayáis leído la teoría sobre los sinónimos y los antónimos. Podréis realizar en grupos cooperativos, mediante la técnica 1, 2, 4 la búsqueda de sinónimos y antónimos relacionados con las palabras de la sopa de letras de la sesión anterior. Para esta actividad podéis y debéis utilizar el diccionario.</p>\n<p style=\"text-align: justify;\">Posteriormente uniréis vuestras ideas en un pequeño cuaderno que se convertirá en nuestro \"glosario emocional\" y que os permitirá encontrar la palabra adecuada para expresar vuestros sentimientos y emociones. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqx-m2nsjhhon</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 6</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqx-m2nsjhhon</odePageId>
+      <odeBlockId>block-1775949767610-x3jhkcmn9</odeBlockId>
+      <blockName>Cantamos nuestra canción.</blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqx-m2nsjhhon</odePageId>
+          <odeBlockId>block-1775949767610-x3jhkcmn9</odeBlockId>
+          <odeIdeviceId>idevice-1775949767608-l0itqgpmo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión vamos a trabajar las rimas elaborando y cantando una canción sobre lo que sentimos en distintos momentos empleando palabras relacionadas con la actividad anterior. </p>
+<p>Al realizarlo de forma grupal, cada grupo se encargará de realizar una pequeña estrofa en la que se trate una sola emoción, por ejemplo la alegría, la tristeza, el enfado o el miedo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775949767608-l0itqgpmo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión vamos a trabajar las rimas elaborando y cantando una canción sobre lo que sentimos en distintos momentos empleando palabras relacionadas con la actividad anterior. </p>\n<p>Al realizarlo de forma grupal, cada grupo se encargará de realizar una pequeña estrofa en la que se trate una sola emoción, por ejemplo la alegría, la tristeza, el enfado o el miedo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqx-fh9f7m0a5</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 7</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqx-fh9f7m0a5</odePageId>
+      <odeBlockId>block-1775949479945-af3xpbs2n</odeBlockId>
+      <blockName>Breakout de las emociones</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqx-fh9f7m0a5</odePageId>
+          <odeBlockId>block-1775949479945-af3xpbs2n</odeBlockId>
+          <odeIdeviceId>idevice-1775949479944-sw9un2kua</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión realizaremos el siguiente Breakout a través de la plataforma Genially. </p>
+<p>1. Haz click en el enlace: <a href="https://view.genially.com/69da53ec5e93bd5050917be3" title="" style="font-size: 19.2px; color: #0a58ca; --bs-link-color-rgb: 10,88,202;">Genially de las emociones</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775949479944-sw9un2kua","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión realizaremos el siguiente Breakout a través de la plataforma Genially. </p>\n<p>1. Haz click en el enlace: <a href=\"https://view.genially.com/69da53ec5e93bd5050917be3\" title=\"\" style=\"font-size: 19.2px; color: #0a58ca; --bs-link-color-rgb: 10,88,202;\">Genially de las emociones</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqy-ah6ifyo5v</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 8</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqy-ah6ifyo5v</odePageId>
+      <odeBlockId>block-1775949036675-yiykdcezp</odeBlockId>
+      <blockName>Flipped Classroom</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqy-ah6ifyo5v</odePageId>
+          <odeBlockId>block-1775949036675-yiykdcezp</odeBlockId>
+          <odeIdeviceId>idevice-1775949036673-gdxbkqkid</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presenta el corto "FOREVERGREEN". </p>
+<p><iframe width="300" height="150" src="https://www.youtube.com/embed/B4EPW7JUMTM?si=HEyy3ROHV-iNvSpy" allowfullscreen="allowfullscreen"></iframe></p>
+<p>1. Tenéis que visualizarlo desde la plataforma YouTube desde vuestras casas. </p>
+<p>2. Anotar aquello que más os llame la atención y os guste. Así como las distintas emociones que en él aparecen y algunas ideas para poner en común mediante lluvia de ideas en el aula. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775949036673-gdxbkqkid","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presenta el corto \"FOREVERGREEN\". </p>\n<p><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/B4EPW7JUMTM?si=HEyy3ROHV-iNvSpy\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>1. Tenéis que visualizarlo desde la plataforma YouTube desde vuestras casas. </p>\n<p>2. Anotar aquello que más os llame la atención y os guste. Así como las distintas emociones que en él aparecen y algunas ideas para poner en común mediante lluvia de ideas en el aula. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqy-ehyzafeu3</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 9</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 9</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 9</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqy-ehyzafeu3</odePageId>
+      <odeBlockId>block-1775950063817-mod60kf94</odeBlockId>
+      <blockName>Creación de nuestros textos narrativos grupales.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqy-ehyzafeu3</odePageId>
+          <odeBlockId>block-1775950063817-mod60kf94</odeBlockId>
+          <odeIdeviceId>idevice-1775950063816-yansqev1m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta sesión consistirá en la elaboración de un texto narrativo de forma cooperativa. Tras realizar la puesta en común sobre las ideas extraídas del corto de la sesión anterior. </p>
+<p style="text-align: justify;">Cada grupo mediante la técnica cooperativa de folio giratorio, recogeréis las ideas de todo el equipo para la elaboración de un texto común en el que se muestren las distintas emociones que se ven representadas en el video y sobre la importancia del cuidado de la naturaleza. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775950063816-yansqev1m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta sesión consistirá en la elaboración de un texto narrativo de forma cooperativa. Tras realizar la puesta en común sobre las ideas extraídas del corto de la sesión anterior. </p>\n<p style=\"text-align: justify;\">Cada grupo mediante la técnica cooperativa de folio giratorio, recogeréis las ideas de todo el equipo para la elaboración de un texto común en el que se muestren las distintas emociones que se ven representadas en el video y sobre la importancia del cuidado de la naturaleza. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqy-yolge2saf</odePageId>
+  <odeParentPageId>page-mnvldvqj-qf4y3uun5</odeParentPageId>
+  <pageName>Sesión 10</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqy-yolge2saf</odePageId>
+      <odeBlockId>block-1775944365436-900fcg8m0</odeBlockId>
+      <blockName>Exposiciones de los textos, coevaluación y autoevaluación.</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqy-yolge2saf</odePageId>
+          <odeBlockId>block-1775944365436-900fcg8m0</odeBlockId>
+          <odeIdeviceId>idevice-1775944365435-rs1jrmtju</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta última sesión una vez, tengamos nuestros textos narrativos grupales elaborados y listos para su exposición, realizaremos una autoevaluación y coevaluación en la que valoraremos a través de dianas de evaluación como las que se muestran en este documento, vuestro trabajo de forma individual y la valoración del funcionamiento del resto del equipo.</p>
+<figure class="exe-figure position-center" style="width: 390px;"><img src="{{context_path}}/content/resources/D3GLGUXWAAAqsEq.jpg" width="390" height="276" alt="" />
+<figcaption class="figcaption"><span class="author">Gabiñe Larralde</span>. <span class="title"><em>Diana de autoevaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>¡Ya casi lo tenemos! Ahora sólo queda que demostréis vuestro don para la escritura exponiéndonos vuestros textos narrativos cooperativos elaborados en la sesión anterior. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775944365435-rs1jrmtju","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta última sesión una vez, tengamos nuestros textos narrativos grupales elaborados y listos para su exposición, realizaremos una autoevaluación y coevaluación en la que valoraremos a través de dianas de evaluación como las que se muestran en este documento, vuestro trabajo de forma individual y la valoración del funcionamiento del resto del equipo.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 390px;\"><img src=\"{{context_path}}/content/resources/D3GLGUXWAAAqsEq.jpg\" width=\"390\" height=\"276\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Gabiñe Larralde</span>. <span class=\"title\"><em>Diana de autoevaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>¡Ya casi lo tenemos! Ahora sólo queda que demostréis vuestro don para la escritura exponiéndonos vuestros textos narrativos cooperativos elaborados en la sesión anterior. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+      <odeBlockId>block-1775945364362-r2zii0eyo</odeBlockId>
+      <blockName>Ejemplo de diana de evaluación para la coevaluación y autoevaluación.</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+          <odeBlockId>block-1775945364362-r2zii0eyo</odeBlockId>
+          <odeIdeviceId>idevice-1775945364360-ab0zpz5n9</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775945364360-ab0zpz5n9" title="Diana de autoevaluación" href="{{context_path}}/content/resources/D3GLGUXWAAAqsEq.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/D3GLGUXWAAAqsEq.jpg" height="128" width="128" title="Diana de autoevaluación" alt="Diana de autoevaluación" titlelink="" author="Gabiñe Larralde" authorlink="https://x.com/garbinelarralde" license="CC-BY-NC-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775945364360-ab0zpz5n9","img_0":{"img":"{{context_path}}/content/resources/D3GLGUXWAAAqsEq.jpg","thumbnail":"{{context_path}}/content/resources/D3GLGUXWAAAqsEq.jpg","title":"Diana de autoevaluación","linktitle":"","author":"Gabiñe Larralde","linkauthor":"https://x.com/garbinelarralde","license":"CC-BY-NC-SA"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+      <odeBlockId>block-1775945737436-8x7ev1gt6</odeBlockId>
+      <blockName>Rúbrica criterios 3.1, 3.2, 6.1, 6.2, 6.3, 10.1 y 10.2</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+          <odeBlockId>block-1775945737436-8x7ev1gt6</odeBlockId>
+          <odeIdeviceId>idevice-1775945737431-s4ax49b8u</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p class="exe-rubrics-instructions"> Rúbrica para evaluar los criterios: 3.1, 3.2, 6.1, 6.2, 6.3, 10.1 y 10.2</p><table class='exe-table'><caption>Rúbrica de ejemplo (4x4)</caption><thead><tr><th>&nbsp;</th><th>Excelente</th><th>Adecuado</th><th>En proceso</th><th>Iniciado</th></tr></thead><tbody><tr><th>Organiza su discurso</th><td>Muy claro, ordenado y completo <span>(2.5)</span></td><td>Claro y bastante ordenado <span>(1.75)</span></td><td>Algo desordenado <span>(1.50)</span></td><td>Desorganizado <span>(1.25)</span></td></tr><tr><th>Se adapta a la situación</th><td>Se ajusta perfectamente <span>(2.5)</span></td><td>Se ajusta en general <span>(1.75)</span></td><td>A veces no se ajusta <span>(1.50)</span></td><td>No se ajusta <span>(1.25)</span></td></tr><tr><th>Uso de recursos no verbales</th><td>Usa gestos, voz y mirada con intención <span>(2.5)</span></td><td>Usa algunos recursos <span>(1.75)</span></td><td>Uso limitado <span>(1.50)</span></td><td>No los usa <span>(1.25)</span></td></tr><tr><th>Participación</th><td>Participa activamente y con iniciativa <span>(2.5)</span></td><td>Participa de forma adecuada <span>(1.75)</span></td><td>Participa poco <span>(1.50)</span></td><td>Apenas participa <span>(1.25)</span></td></tr><tr><th>Escucha activa</th><td>Escucha, responde y respeta turnos <span>(2.5)</span></td><td>Escucha generalmente <span>(1.75)</span></td><td>A veces interrumpe <span>(1.50)</span></td><td>No escucha <span>(1.25)</span></td></tr><tr><th>Cortesía lingüística</th><td>Usa lenguaje respetuoso siempre <span>(2.5)</span></td><td>Generalmente respetuoso <span>(1.75)</span></td><td>A veces inapropiado <span>(1.50)</span></td><td>Lenguaje inadecuado <span>(1.25)</span></td></tr><tr><th>Detecta lenguaje inclusivo</th><td>Detecta claramente <span>(2.5)</span></td><td>Detecta algunos <span>(1.75)</span></td><td>Los detecta con dificultad <span>(1.50)</span></td><td>No los detecta <span>(1.25)</span></td></tr><tr><th>Usa lenguaje inclusivo</th><td>Siempre inclusivo <span>(2.5)</span></td><td>Generalmente inclusivo <span>(1.75)</span></td><td>a veces inapropiado <span>(1.50)</span></td><td>Inadecuado. <span>(1.25)</span></td></tr><tr><th>Escucha</th><td>Escucha y empatiza <span>(2.5)</span></td><td>Escucha algo <span>(1.75)</span></td><td>Escucha poco  <span>(1.50)</span></td><td>No escucha <span>(1.25)</span></td></tr><tr><th>Asertividad</th><td>Se expresa con respeto <span>(2.5)</span></td><td>Generalmente adecuado <span>(1.75)</span></td><td>A veces inapropiado <span>(1.50)</span></td><td>No adecuado <span>(1.25)</span></td></tr><tr><th>Resolución de conflictos</th><td>Propone soluciones dialogadas <span>(2.5)</span></td><td>Intenta dialogar <span>(1.75)</span></td><td>Dificultad <span>(1.50)</span></td><td>No resuelve <span>(1.25)</span></td></tr><tr><th>Presentación</th><td>Clara, organizada y creativa <span>(2.5)</span></td><td>Clara <span>(1.75)</span></td><td>Poco clara <span>(1.50)</span></td><td>Confusa <span>(1.25)</span></td></tr><tr><th>Trabajo en grupo</th><td>Colabora activamente <span>(2.5)</span></td><td>Colabora <span>(1.75)</span></td><td>Participación irregular <span>(1.50)</span></td><td>No colabora <span>(1.25)</span></td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+      <odeBlockId>block-1775947936057-ypovb6a0m</odeBlockId>
+      <blockName>Rúbrica evaluar infografía</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+          <odeBlockId>block-1775947936057-ypovb6a0m</odeBlockId>
+          <odeIdeviceId>idevice-1775947936055-8sph9wgrk</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica para evaluar una infografía</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Patrón organizativo</th><td>Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), existe un equilibrio perfecto entre el texto y la imagen. <span>(4)</span></td><td>Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), la información visual y textual están bastante bien  equilibradas. <span>(3)</span></td><td>Falta alguno de los elementos característicos de una infografía (título, cuerpo, fuentes o créditos) y/o no existe un buen equilibrio entre la información visual y  textual. <span>(2)</span></td><td>Solo presenta uno o dos de los elementos propios de una infografía (título, cuerpo, fuentes o créditos) y/o la información visual y textual no está equilibrada. <span>(1)</span></td></tr><tr><th>Diseño</th><td>La información está distribuida de una manera visualmente muy atractiva, la combinación de colores es muy armónica y la tipografía empleada es legible y muy apropiada. <span>(4)</span></td><td>La información está distribuida de una manera visualmente bastante atractiva, la combinación de colores es adecuada y la tipografía empleada es legible y apropiada. <span>(3)</span></td><td>La información está distribuida de una manera visualmente poco atractiva, los colores no se combinan de una manera demasiado armónica y/o la tipografía no es la más apropiada. <span>(2)</span></td><td>La información está distribuida de una visualmente nada atractiva, los colores no se combinan de manera armónica y/o la tipografía empleada es inapropiada y poco legible. <span>(1)</span></td></tr><tr><th>Contenido</th><td>En la infografía aparecen recogidos con mucha claridad  todos y cada uno de los conceptos e ideas  claves del tema. <span>(4)</span></td><td>En la infografía  aparecen recogidas con bastante claridad todas o la mayor parte de las ideas claves del tema. <span>(3)</span></td><td>En la infografía no aparecen recogidas todas las ideas claves del tema pero sí las más relevantes. <span>(2)</span></td><td>En la infografía no se reflejan la mayor parte de las ideas fundamentales del tema. <span>(1)</span></td></tr><tr><th>Elementos visuales</th><td>Todas las imágenes empleadas tienen licencia CC, poseen unas dimensiones perfectas y apoyan con total claridad el mensaje que se quiere transmitir. <span>(4)</span></td><td>Todas las imágenes empleadas tienen una licencia CC, poseen unas dimensiones adecuadas y apoyan con claridad el mensaje que se quiere transmitir. <span>(3)</span></td><td>No todas las imágenes empleadas tienen licencia CC. Además, alguna de ellas no posee las dimensiones adecuadas y/o no apoya de una manera clara el mensaje que se quiere transmitir. <span>(2)</span></td><td>La mayor parte de las imágenes no tienen licencia CC, no poseen unas dimensiones adecuadas y no se adecúan al mensaje que se quiere transmitir. <span>(1)</span></td></tr><tr><th>Corrección lingüística</th><td>No se aprecian errores ortográficos, morfosintácticos ni de puntuación. <span>(4)</span></td><td>Aparecen uno o dos errores ortográficos, morfosintácticos o de puntuación. <span>(3)</span></td><td>Aparecen tres o cuatro errores ortográficos, morfosintácticos o de puntuación. <span>(2)</span></td><td>Aparecen cinco o más errores ortográficos, morfosintácticos o de puntuación. <span>(1)</span></td></tr></tbody></table><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar una infografía</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+      <odeBlockId>block-1775948070088-fwrd9vkku</odeBlockId>
+      <blockName>Rúbrica para evaluar criterios 4.1, 4.2, 5.1, 7.1 y 7.2</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvldvqz-9779tdhcb</odePageId>
+          <odeBlockId>block-1775948070088-fwrd9vkku</odeBlockId>
+          <odeIdeviceId>idevice-1775948070087-0zjs31xip</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica de ejemplo (4x4)</caption><thead><tr><th>&nbsp;</th><th>Excelente</th><th>Adecuado</th><th>En proceso</th><th>Iniciado</th></tr></thead><tbody><tr><th>Comprensión global</th><td>Comprende completamente <span>(2.5)</span></td><td>Comprende lo principal <span>(1.75)</span></td><td>Comprende parcialmente <span>(1.50)</span></td><td>No comprende <span>(1.25)</span></td></tr><tr><th>Identificación de ideas</th><td>Identifica ideas principales y detalles <span>(2.5)</span></td><td>Identifica ideas principales <span>(1.75)</span></td><td>Identifica algunas <span>(1.50)</span></td><td>No identifica <span>(1.25)</span></td></tr><tr><th>inferencias</th><td>Realiza inferencias correctamente <span>(2.5)</span></td><td>Algunas inferencias <span>(1.75)</span></td><td>Dificultad <span>(1.50)</span></td><td>No realiza <span>(1.25)</span></td></tr><tr><th>Criterios 4</th><td>Identifica y explica <span>(2.5)</span></td><td>Identifica <span>(1.75)</span></td><td>Duda <span>(1.50)</span></td><td>No identifica <span>(1.25)</span></td></tr><tr><th>Tipo de texto</th><td>Reconoce claramente partes <span>(2.5)</span></td><td>Reconoce algunas <span>(1.75)</span></td><td>Dificultad <span>(1.50)</span></td><td>No reconoce <span>(1.25)</span></td></tr><tr><th>Estructura</th><td>Opina con criterio <span>(2.5)</span></td><td>Opina de forma simple <span>(1.75)</span></td><td>Opinión poco clara <span>(1.50)</span></td><td>No opina <span>(1.25)</span></td></tr><tr><th>Coherencia</th><td>Muy claro y bien estructurado <span>(2.5)</span></td><td>Bastante claro <span>(1.75)</span></td><td>Algo confuso <span>(1.50)</span></td><td>Desordenado <span>(1.25)</span></td></tr><tr><th>Adecuación</th><td>Se adapta perfectamente <span>(2.5)</span></td><td>Adecuado en general <span>(1.75)</span></td><td>Poco adecuado <span>(1.50)</span></td><td>No adecuado <span>(1.25)</span></td></tr><tr><th>ortografía</th><td>Muy pocos errores <span>(2.5)</span></td><td>Algunos errores <span>(1.75)</span></td><td>Bastantes errores <span>(1.50)</span></td><td>Muchos errores <span>(1.25)</span></td></tr><tr><th>Proceso de escritura</th><td>Planifica, revisa y mejora <span>(2.5)</span></td><td>Sigue el proceso <span>(1.75)</span></td><td>Con ayuda <span>(1.50)</span></td><td>No sigue proceso <span>(1.25)</span></td></tr><tr><th>Interés</th><td>Muy motivado <span>(2.5)</span></td><td>Interesado <span>(1.75)</span></td><td>Poco interés <span>(1.50)</span></td><td>No muestra interés <span>(1.25)</span></td></tr><tr><th>Autonomía</th><td>Lee de forma autónoma <span>(2.5)</span></td><td>Con algo de ayuda <span>(1.75)</span></td><td>Necesita ayuda <span>(1.50)</span></td><td>No puede <span>(1.25)</span></td></tr><tr><th>Participación</th><td>Comparte activamente <span>(2.5)</span></td><td>Participa <span>(1.75)</span></td><td>Poco participativo <span>(1.50)</span></td><td>No participativo <span>(1.25)</span></td></tr><tr><th>Opinión</th><td>Argumenta bien <span>(2.5)</span></td><td>Opina <span>(1.75)</span></td><td>Opinión simple <span>(1.50)</span></td><td>No opina <span>(1.25)</span></td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775995752814-9qdg8ltl6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775995752814-9qdg8ltl6</odePageId>
+      <odeBlockId>block-1775995982901-4dwyqg5tk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775995752814-9qdg8ltl6</odePageId>
+          <odeBlockId>block-1775995982901-4dwyqg5tk</odeBlockId>
+          <odeIdeviceId>idevice-1775995982900-m9v24w2bo</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Sda Conocemos las emociones- cuaderno alumnado.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En este archivo se encuentran todas las actividades y sesiones que se van a desarrollar a lo largo de esta Situación de Aprendizaje. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Lucía Vidal García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#b1dbdd;color:#000000;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
